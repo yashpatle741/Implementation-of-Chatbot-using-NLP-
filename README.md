@@ -22,7 +22,7 @@ pip install nltk
 How to Run
 Clone the repository:
 
-git clone https://github.com/your-username/chatbot-nlp.git
+git clone https://github.com/yashpatle741/chatbot-nlp.git
 cd chatbot-nlp
 Run the chatbot:
 
